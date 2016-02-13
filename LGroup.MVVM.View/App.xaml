@@ -1,0 +1,13 @@
+﻿<Application x:Class="LGroup.MVVM.View.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Modulos/Clientes/Cadastrar.xaml">
+    <Application.Resources>
+         <!-- 
+            o WPF exites desde 2005 o princio veio para MATAr, substituir WINDOWS FORMS, (SUCESSOR)
+        Aqui no WPF temos todos os recursos de UM FLASH,
+        PHOTOSHOP, temos recursos avançados para trabalhar com AUDIO, VIDEO, IMAGENS (2d ou 2D)
+        A linaguem XAML (WPF, XBAP, silverlight, XAMARIN)
+        -->
+    </Application.Resources>
+</Application>

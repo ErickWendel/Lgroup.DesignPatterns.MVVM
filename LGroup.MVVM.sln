@@ -3,8 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentacao", "Apresentacao", "{810644D9-3E40-4643-8FFF-9086A102D337}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Armazenamento de Dados", "Armazenamento de Dados", "{7510B80C-252F-47DB-A760-6075A6E55BAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programacao de Telas", "Programacao de Telas", "{4ECD3450-D13C-41E7-B0E3-DF9C81C9FE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVVM.Model", "LGroup.MVVM.Model\LGroup.MVVM.Model.csproj", "{5865A5D8-D020-4AF2-84BD-81D94C329B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVVM.ViewModel", "LGroup.MVVM.ViewModel\LGroup.MVVM.ViewModel.csproj", "{8DEF2ED6-950F-4DA0-8D5C-307859BD8814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.MVVM.View", "LGroup.MVVM.View\LGroup.MVVM.View.csproj", "{E8BDA3E4-FE66-4C60-8798-EB078072AD75}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5865A5D8-D020-4AF2-84BD-81D94C329B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5865A5D8-D020-4AF2-84BD-81D94C329B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5865A5D8-D020-4AF2-84BD-81D94C329B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5865A5D8-D020-4AF2-84BD-81D94C329B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEF2ED6-950F-4DA0-8D5C-307859BD8814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEF2ED6-950F-4DA0-8D5C-307859BD8814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEF2ED6-950F-4DA0-8D5C-307859BD8814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEF2ED6-950F-4DA0-8D5C-307859BD8814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BDA3E4-FE66-4C60-8798-EB078072AD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BDA3E4-FE66-4C60-8798-EB078072AD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BDA3E4-FE66-4C60-8798-EB078072AD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BDA3E4-FE66-4C60-8798-EB078072AD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5865A5D8-D020-4AF2-84BD-81D94C329B04} = {7510B80C-252F-47DB-A760-6075A6E55BAD}
+		{8DEF2ED6-950F-4DA0-8D5C-307859BD8814} = {4ECD3450-D13C-41E7-B0E3-DF9C81C9FE89}
+		{E8BDA3E4-FE66-4C60-8798-EB078072AD75} = {810644D9-3E40-4643-8FFF-9086A102D337}
 	EndGlobalSection
 EndGlobal

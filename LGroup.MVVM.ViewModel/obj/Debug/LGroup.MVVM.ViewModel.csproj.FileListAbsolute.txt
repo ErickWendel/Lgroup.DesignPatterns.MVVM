@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVVM\LGroup.MVVM.ViewModel\bin\Debug\LGroup.MVVM.ViewModel.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVVM\LGroup.MVVM.ViewModel\bin\Debug\LGroup.MVVM.ViewModel.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVVM\LGroup.MVVM.ViewModel\obj\Debug\LGroup.MVVM.ViewModel.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVVM\LGroup.MVVM.ViewModel\obj\Debug\LGroup.MVVM.ViewModel.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.MVVM\LGroup.MVVM.ViewModel\obj\Debug\LGroup.MVVM.ViewModel.pdb

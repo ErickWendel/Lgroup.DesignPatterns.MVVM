@@ -1,0 +1,11 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Clientes="clr-namespace:LGroup.MVVM.ViewModel.Modulos.Clientes;assembly=LGroup.MVVM.ViewModel" x:Class="LGroup.MVVM.View.Modulos.Clientes.Listar"
+        Title="Listar" Height="300" Width="300">
+    <Window.DataContext>
+        <Clientes:ListarViewModel/>
+    </Window.DataContext>
+    <!-- Fizemos o binding via propriedade, em dataContext >  new > dll-->
+    <Grid/>
+</Window>
