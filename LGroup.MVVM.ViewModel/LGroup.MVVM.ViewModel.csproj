@@ -44,6 +44,12 @@
     <Compile Include="Modulos\Clientes\ListarViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LGroup.MVVM.Model\LGroup.MVVM.Model.csproj">
+      <Project>{5865a5d8-d020-4af2-84bd-81d94c329b04}</Project>
+      <Name>LGroup.MVVM.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
